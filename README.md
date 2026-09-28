@@ -1,4 +1,5 @@
 # AI Writer
+![AI Writer Showcase](./public/ai-writer-showcase.png)
 
 AI Writer is an AI-powered writing assistant built with Next.js and the OpenAI API.
 
